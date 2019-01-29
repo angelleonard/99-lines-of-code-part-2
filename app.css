@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(90, 187, 90)
+}
+h1 {
+    color: blue;
+}
+.friend {
+    background-color: rgb(141, 48, 141);
+}
+.friend > h3 { 
+    text-transform:  uppercase
+}
+#my-btn {
+    background-color: rgb(240, 178, 121)
+}
